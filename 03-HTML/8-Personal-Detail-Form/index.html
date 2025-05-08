@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal form</title>
+
+</head>
+<body>
+    <div>
+        <div className="formlabel">Personal details</div>
+        <form action="details" method="get">
+            <label for="salutation">
+                Salutation
+                <br>
+                <select name="" id="">
+                    <option value="">--None--</option>
+                    <option value="">Mr.</option>
+                    <option value="">Mrs.</option>
+                </select>
+            </label>
+            <br>
+            <br>
+            <label for="">
+                First Name <input type="text" placeholder="abcd">
+            </label>
+            <br>
+            <br>
+            <label for="">Last Name 
+                <input type="text" placeholder="abcd">
+            </label>
+            <br><br>
+            <label for="gender">Gender:
+            </label>
+            <label for="">
+                <input type="radio" name="gender" id="male">
+                Male
+            </label>
+            <label for="">
+                <input type="radio" name="gender" id="female">
+                Female</label>
+                <br><br>
+                <label for="email">
+                    Email:
+                    <input type="text" name="email" id="email" placeholder="abc@gmail.com">
+                </label>
+                <br><br>
+                <label for="DOB">
+                    Date of Birth:
+                    <input type="datetime-local" name="DOB" id="">
+                </label>
+                <br><br>
+                <label for="address">
+                    Address:
+                    <br>
+                    <textarea name="address" id="" cols="30" rows="5"></textarea>
+                </label>
+                <br><br>
+                <input type="submit" value="Submit">
+
+        </form>
+    </div>
+</body>
+</html>
