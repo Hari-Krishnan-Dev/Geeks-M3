@@ -1,6 +1,4 @@
-# Very Basic Resume
-
-This repository is a clone of [very-basic-resume](https://github.com/bitz1119/very-basic-resume).
+> **Note:** In order to host on GitHub Pages, the file directory should be set to `root` or `docs`. Since this requirement is not met, I have hosted the project on Netlify instead.
 ## Tasks Completed
 
 1. Forked the repository from [very-basic-resume](https://github.com/bitz1119/very-basic-resume?authuser=0).
@@ -10,6 +8,5 @@ This repository is a clone of [very-basic-resume](https://github.com/bitz1119/ve
 5. Committed the changes using `git commit`.
 6. Pushed the changes to the forked repository on GitHub.
 7. Hosted the project on GitHub Pages.
-
 ### Hosted Link
-[View Resume on GitHub Pages](https://yourusername.github.io/very-basic-resume/)
+[View Resume on Netlify](https://statuesque-creponne-81fcba.netlify.app/)

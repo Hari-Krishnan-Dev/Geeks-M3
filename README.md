@@ -13,7 +13,7 @@ This repository contains educational projects completed as part of the Geekster 
 |`GIT Repos`|
 | 1. [CommandLines](./01-Git/1-CommandLines/)                   |                                |
 | 2. [Github](./01-GIT/2-Github/)              | 
-| 3. [GitForking](./01-GIT/3-GitForking/)              | 
+| 3. [GitForking](./01-GIT/3-GitForking/)              | ----> [Link](https://statuesque-creponne-81fcba.netlify.app/)
 |*Home Work*|
 | 4. [HW1](./01-GIT/4-HW1/)              | 
 | 5. [HW2](./01-GIT/5-HW2/)              | 
