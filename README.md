@@ -20,7 +20,7 @@ This repository contains educational projects completed as part of the Geekster 
 | 6. [HW3](./01-GIT/6-GitHW3/)              |
 | |:--:|  
 |`Figma Repos`|
-| 7. [GoogleHomePg](./02-Figma/1-GoogleHmPg/)              | ---->[ Link]()|
+| 7. [GoogleHomePg](./02-Figma/1-GoogleHmPg/)              | ---->[ Link](https://www.figma.com/proto/NOpbcE32FBt2WNZT7Wj4yV/GoogleHomePg?node-id=0-1&t=MaQBr7VS9PVpp8b3-1)|
 | 8. [LeetCodeHomePg](./02-Figma/2-LeetCodeHmPg/)              | ---->[ Link]()|
 ||:--:|
 |`HTML Repos`|
