@@ -16,12 +16,12 @@ This repository contains educational projects completed as part of the Geekster 
 | 3. [GitForking](./01-GIT/3-GitForking/)              | ----> [Link](https://statuesque-creponne-81fcba.netlify.app/)
 |*Home Work*|
 | 4. [HW1](./01-GIT/4-GitBasicHW1/)              | 
-| 5. [HW2](./01-GIT/5-HW2/)              | 
-| 6. [HW3](./01-GIT/6-HW3/)              |
+| 5. [HW2](./01-GIT/5-GitHW2/)              | 
+| 6. [HW3](./01-GIT/6-GitHW3/)              |
 | |:--:|  
 |`Figma Repos`|
-| 7. [GoogleHomePg](./02-Figma/1-GoogleHmPg/)              | 
-| 8. [LeetCodeHomePg](./02-Figma/2-LeetCodeHmPg/)              | 
+| 7. [GoogleHomePg](./02-Figma/1-GoogleHmPg/)              | ---->[ Link]()|
+| 8. [LeetCodeHomePg](./02-Figma/2-LeetCodeHmPg/)              | ---->[ Link]()|
 ||:--:|
 |`HTML Repos`|
 | 1. [Resume](./03-HTML/1-Resume-Html/)                   | ----> [Link](https://resumeofhari.netlify.app/)                               |
