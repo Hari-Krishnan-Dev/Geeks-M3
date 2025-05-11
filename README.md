@@ -21,7 +21,7 @@ This repository contains educational projects completed as part of the Geekster 
 | |:--:|  
 |`Figma Repos`|
 | 7. [GoogleHomePg](./02-Figma/1-GoogleHmPg/)              | ---->[ Link](https://www.figma.com/proto/NOpbcE32FBt2WNZT7Wj4yV/GoogleHomePg?node-id=0-1&t=MaQBr7VS9PVpp8b3-1)|
-| 8. [LeetCodeHomePg](./02-Figma/2-LeetCodeHmPg/)              | ---->[ Link]()|
+| 8. [LeetCodeHomePg](./02-Figma/2-LeetCodeHmPg/)              | ---->[ Link](https://www.figma.com/proto/9K9g64sOraSAmp0Qrv2Lz5/LeecodeHmPg?page-id=0%3A1&node-id=4-2&p=f&viewport=9%2C326%2C0.53&t=CasOVWOf3tsxymlC-1&scaling=min-zoom&content-scaling=fixed)|
 ||:--:|
 |`HTML Repos`|
 | 1. [Resume](./03-HTML/1-Resume-Html/)                   | ----> [Link](https://resumeofhari.netlify.app/)                               |
