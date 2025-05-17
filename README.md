@@ -38,7 +38,7 @@ This repository contains educational projects completed as part of the Geekster 
 | 1. [Cafe-Menu]()              |
 | 2. [Color Marker]()              |
 | 3. [Nutrition Label]()              |
-| 4. [Shoe Page]()              |
+| 4. [Shoe Page]()              | ---->[ Link](https://shoepageco.netlify.app/) |
 | 5. [Box Model]()              |
 | 6. [Flex Froggy]()              |
 | 7. [Grid Garden]()              |

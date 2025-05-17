@@ -19,4 +19,4 @@ You would be using following properties
 
 ## Hosted Link
 
-[View the Shoe Page]()
+[View the Shoe Page](https://shoepageco.netlify.app/)
