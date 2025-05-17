@@ -1,0 +1,50 @@
+
+body{
+    background-color: lightgray;
+}
+
+section{
+    max-width: 40%;
+    display: inline-block;
+
+}
+
+section:first-child{
+    margin-right: 20%;
+    color : white
+}
+.img{
+    max-width: 300px;
+    position: absolute;
+    top:10px;
+    right:50px;
+    transition: 0.5s;
+
+}
+.container{
+    background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+    box-shadow: 0 0 10px black;
+    padding: 2%;
+    margin: 5% 10%;
+    z-index: 10;
+    height: 70vh;
+    position: relative;
+}
+.img:hover{
+    max-width: 450px;
+    top:0px;
+    right:0px;
+}
+body::before{
+    content: "";
+    background: linear-gradient(to right ,#b92927, #1565c0);
+    box-shadow: 0 0 10px black;
+    position: absolute;
+    inset: 0;
+    transform: skewY(15deg);
+    
+    
+}
+h1{
+    margin-top: 0;
+}
