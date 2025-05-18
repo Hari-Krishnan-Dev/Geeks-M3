@@ -16,4 +16,3 @@ Enjoy a visual walkthrough of all FlexFroggy levels. Click on any image to view 
 
 ---
 
-*Tip: You can adjust the table columns or add captions as needed for your project!*

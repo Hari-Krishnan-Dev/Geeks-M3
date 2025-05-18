@@ -40,8 +40,9 @@ This repository contains educational projects completed as part of the Geekster 
 | 3. [Nutrition Label]()              |
 | 4. [Shoe Page](./04-CSS/4-shoePage/)              | ---->[ Link](https://shoepageco.netlify.app/) |
 | 5. [Box Model]()              |
+|below 6 & 7 solutions given in readme.md| official link|
 | 6. [Flex Froggy](./04-CSS/6-FlexFroggy/)              | ---->[Link](https://flexboxfroggy.com/) |
-| 7. [Grid Garden]()              |
+| 7. [Grid Garden](./04-CSS/8-GridGarden/)              | ---->[Link](https://codepip.com/games/grid-garden/)               |
 | 8. [Media Queries]()              |
 | *CSS Special Challenges*|
 | 1. [Netflix]()              |
@@ -51,7 +52,7 @@ This repository contains educational projects completed as part of the Geekster 
 | 5. [Box Mode]()              |
 | 6. [Flexbox Photo Gallery App]()              |
 | 7. [Flipkart Navbar]()              |
-| 8. [Grid Template]()              |
+| 8. [Grid Garden](./04-CSS/8-GridGarden/)              |
 | 9. [Animations]()              |
 |            |:--:|
 |`Weekly-Test`|
