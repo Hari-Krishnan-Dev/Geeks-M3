@@ -1,11 +1,42 @@
-### Geeks-M3
-This repository contains educational projects completed as part of the Geekster curriculum. All code has been written by me unless otherwise stated.
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/Hari-Krishnan-Dev/Geeks-M3.git
-    cd Geeks-M3
-    ```
+# Geeks-M3
 
+This repository contains educational projects completed as part of the Geekster curriculum. All code has been written by me unless otherwise stated.
+
+## Clone the Repository
+
+    git clone https://github.com/Hari-Krishnan-Dev/Geeks-M3.git
+
+    cd Geeks-M3
+    
+## 🧾 Cloning a Git Repository with Submodules
+
+This repository contains Git submodules and you want to clone everything properly, follow the steps below.
+
+---
+
+### ✅ Clone the repository along with all submodules
+
+    git clone --recurse-submodules https://github.com/yourname/your-main-repo.git
+
+---
+
+### ✅  If you already cloned the repository without submodules
+
+Run the following command inside the main repo directory:
+
+    git submodule update --init --recursive
+
+---
+
+### 🔁 To update submodules to their latest commits
+
+    git submodule update --recursive --remote
+
+---
+
+### 📌 Note
+
+You can check for submodules by looking for a `.gitmodules` file in the root of your repository.
 
 |**Repository Links**                 |    **Hosted live site**                                                          |
 |:----------------------------------------------|:--------------------------------------------------------------------------------:|
@@ -43,11 +74,11 @@ This repository contains educational projects completed as part of the Geekster 
 |*below 6 & 7 solutions given in readme.md*| *official link*|
 | 6. [Flex Froggy](./04-CSS/6-FlexFroggy/)              | ---->[Link](https://flexboxfroggy.com/) |
 | 7. [Grid Garden](./04-CSS/8-GridGarden/)              | ---->[Link](https://codepip.com/games/grid-garden/)               |
-| 8. [Media Queries]()              |
+| 8. [Media Queries](./04-CSS/9-MediaQuery/)              | ---->[Link]() |
 | *CSS Special Challenges*|
 | 1. [Netflix]()              |
 | 2. [Background Properties]()              |
-| 3. [Typography]()              |
+| 3. [Typography]()              |  
 | 4. [Coffee House]()              |
 | 5. [Box Mode]()              |
 | 6. [Flexbox Photo Gallery App]()              |
